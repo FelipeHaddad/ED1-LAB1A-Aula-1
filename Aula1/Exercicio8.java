@@ -1,3 +1,5 @@
+// 10437372 - Felipe Bertacco Haddad
+
 public class Exercicio8 {
     public static boolean haColisaoEntreCirculos(int x1,int y1, int r1, int x2, int y2, int r2) {
         double somaRaios  = r1 + r2;

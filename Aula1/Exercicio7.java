@@ -1,3 +1,5 @@
+// 10437372 - Felipe Bertacco Haddad
+
 public class Exercicio7 {
     public static int contarVogais(String palavra) {
         int contador = 0;

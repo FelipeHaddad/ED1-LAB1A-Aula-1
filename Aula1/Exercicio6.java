@@ -1,3 +1,5 @@
+// 10437372 - Felipe Bertacco Haddad
+
 public class Exercicio6 {
     public static double mulComAdicao (double a, int b) {
         float resultado = 0;
